@@ -1,4 +1,4 @@
-for (int r = 0 r < H - R + 1; ++r)
+for (int r = 0 r < H - R + 1; ++r){
   for (int c = 0; c < W - C + 1; ++c) {
     //for every (r,c)…
     int sum = 0;
@@ -7,3 +7,4 @@ for (int r = 0 r < H - R + 1; ++r)
         sum += G[r + y][c + x];
     best = min(best, sum);
   }
+}
