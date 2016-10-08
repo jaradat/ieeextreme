@@ -27,7 +27,7 @@ void output()
 
 }
 
-int	main() {
+int main() {
     read();
     process();
     output();
