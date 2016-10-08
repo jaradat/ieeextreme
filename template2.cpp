@@ -1,5 +1,5 @@
 #include<iostream>
-#inclue<vector>
+#include<vector>
 #include<map>
 #include<algorithms>
 #include<cmath>
