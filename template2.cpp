@@ -31,5 +31,5 @@ int main() {
     read();
     process();
     output();
-    return	0;
+    return 0;
 }
